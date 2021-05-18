@@ -1,6 +1,6 @@
 ---
 title: "PA8.Rmd"
-author: "Ben Cahill"
+author: "Ben Cahill, Austin James Berg, Ben Cahill, Eric Olague, Jusin Anderson, Aditi Gajjar"
 date: "5/18/2021"
 output: html_document
 ---
