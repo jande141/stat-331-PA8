@@ -1,12 +1,16 @@
 ---
 title: "PA8.Rmd"
-author: "Ben Cahill"
+author: "Ben Cahill, Austin James Berg, Ben Cahill, Eric Olague, Jusin Anderson, Aditi Gajjar"
 date: "5/18/2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5ceafe5fcd680767cc5d88f6e13927cc8e1cdb22
 library(tidyverse)
 ```
 
